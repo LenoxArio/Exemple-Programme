@@ -1,0 +1,13 @@
+les fonctions dispo:
+
+-Text : display.text(font2, "Hello", 16, 16, color=st7789.color565(255, 255, 0))
+
+-Rectangle plein : display.fill_rect(rect_x, rect_y, rect_width, rect_height, blue_color)
+
+-Ligne Horizontal: display.hline(line_x, line_y, line_width, blue_color)
+
+-Ligne Vertical : display.vline(line_x, line_y, line_height, blue_color)
+
+-Set Fond : display.fill(black_color)
+
+-Pixel : display.pixel(Pixel_X, Pixel_Y, blue_color)
